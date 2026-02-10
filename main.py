@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 app = FastAPI(title="Indoor Localisation API")
 
-model = joblib.load("./models/linear_model.pkl")
+model = joblib.load("./models/linear_model1.pkl")
 
 
 # ----------- Nested models -----------
