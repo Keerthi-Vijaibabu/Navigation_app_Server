@@ -72,7 +72,7 @@ EVENTS = {
     "Mind Heist": 'A103',
     "Doomsday:Protocol" : 'A101',
     "Pixel Paradox" : 'A304',
-    #Day 2 eventss
+    #Day 2 events
     "Flutter Fast" : 'A104',
     "GenAI Systems" : 'A201',
     "Design and Decode" : 'A101',
